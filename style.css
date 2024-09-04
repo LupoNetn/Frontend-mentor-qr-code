@@ -43,7 +43,7 @@ img {
 
 @media(max-width: 480px){
     .head-container {
-        margin: 15% auto 15% auto;
+        margin: 40% auto 15% auto;
         border-radius: 10px;
         width: 95%;
         height: 40%;
